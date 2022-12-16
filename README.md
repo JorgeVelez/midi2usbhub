@@ -109,7 +109,7 @@ git fetch origin pull/1627/head:pr-midihost
 git checkout pr-midihost
 ```
 ## Get the project code
-Clone the midiusb2hub project to a directory at the same level as the pico-sdk directory.
+Clone the midi2usbhub project to a directory at the same level as the pico-sdk directory.
 
 ```
 cd [one directory above the pico-sdk directory]
